@@ -1,8 +1,4 @@
 
-<!-- ESC :wq --> helpful(Escape the writing mode, save and quit)
-<!-- i: insert mode -->
-
-
 <!-- How to change the name of branch -->
 git branch -m <branch_name>
 
